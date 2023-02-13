@@ -7,6 +7,6 @@ The code is basically written using mySQL.
 #### Usage :
 - you will find mainly 2 scripts. Note that you have to run the first one named "creation.sql" to load the tables and their attributs then you run the "insertion.sql" script that contains generally the informations loaded in this database.
 - To better understand the solution please check the modelisation file in the link above. To open it you have to download the conceptual modeling software called "looping".
-###### Note : 
+#### Note : 
 the solution is in french
 
