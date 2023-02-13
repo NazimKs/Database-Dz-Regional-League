@@ -1,2 +1,2 @@
-# Database-Dz-Regional-League
+# Dz Regional League Database 
 Database based on real data about the algerian regional league in 2021-2022 . It can be used as a simulation of a league with enough informations about games , players , refrees , ...
